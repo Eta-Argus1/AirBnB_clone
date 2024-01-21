@@ -3,5 +3,9 @@ footer {
 	height: 70px;
 	width: 100%;
 	border-top: 1px solid #CCCCCC;
-
+	align-items: center;
+	position: absolute;
+	justify-content: center;
+	display: flex;
+	bottom: 0;
 }
